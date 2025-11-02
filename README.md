@@ -1,7 +1,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=Baguette555&color=45ad64&style=for-the-badge)
 
 ## Hello there! 👋👋
-I'm Baguette, a 2nd-year video-game student in France.
+I'm Baguette, a 3rd-year video-game student in France.
 - French/English
 - Programmer
 - He/Him
@@ -9,7 +9,7 @@ I'm Baguette, a 2nd-year video-game student in France.
 - Blueprint
 
 ## Read, me:
-- Made a game in C# using Unity, available [here](https://maxibaguette.itch.io/unknown-places)!
+- Made games using the Unity and Unreal Engines, available [here](https://maxibaguette.itch.io)!
 - Currently working on a mod of Baldi's Basics Plus using C# to translate it in French! Take a look at it juuuust right [there](https://github.com/Baguette555/BBPlusFrench)!  
   *(Or download it directly via [GameBanana](https://gamebanana.com/wips/77850)!)*
 - Also working in Lua for Friday Night Funkin' mod**s** using Psych Engine.
